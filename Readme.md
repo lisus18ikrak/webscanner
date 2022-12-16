@@ -16,11 +16,11 @@
 
 ### Step 2:
 
-    git clone https://github.com/lisus18ikrak/webscanner.git && cd webscanner  📂
+    git clone https://github.com/lisus18ikrak/webscanner && cd webscanner
 
 ### Step 3:
 
-    Run the command: python script.py/python3 script.py 🧐
+    python3 script.py
 
 ### Step 4:
 
