@@ -16,7 +16,7 @@
 
 ### Step 2:
 
-    Locate to the directory where python file is located 📂
+    git clone https://github.com/lisus18ikrak/webscanner.git && cd webscanner  📂
 
 ### Step 3:
 
@@ -32,10 +32,6 @@
 
 ### Samples
 
-    Running the script in command prompt
-
-![Screenshot (94)](https://user-images.githubusercontent.com/60662775/108616447-6ca77500-7433-11eb-9a6b-0233503024ef.png)
-
-## The Script is Yours.. Happy Hacking 👨🏻‍💻
-
+    run yourself
+    
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
